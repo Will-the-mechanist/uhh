@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f12d9075
 license: GPL-2.0
+name: uhh
 type: industry
+url: https://github.com/Will-the-mechanist/uhh
 version: 6
